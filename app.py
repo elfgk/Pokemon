@@ -12,7 +12,7 @@ def tum_pokemon_isimleri():
         for pokemon in data["results"]:
             pokemon_isimleri.append(pokemon["name"])
 
-        # Bir sonraki sayfaya geçiyoruz
+        # Bir sonraki sayfa
         url = data["next"]
 
     return pokemon_isimleri
@@ -30,9 +30,9 @@ def pokemon_bilgisi(pokemon):
         tipler = [tip["type"]["name"] for tip in veri["types"]]
         istatistikler = {stat["stat"]["name"]: stat["base_stat"] for stat in veri["stats"]}
         resim_url = veri["sprites"]["front_default"]  # Pokémon resminin URL'si
-        # Hem metin hem de resim URL'sini döndürüyoruz
+        # Hem metin hem de resim URL
         pokemon_bilgisi = f"İsim: {isim}\nTipler: {', '.join(tipler)}\nİstatistikler: {istatistikler}"
-        return pokemon_bilgisi, resim_url  # İki çıkış döndürüyoruz
+        return pokemon_bilgisi, resim_url  # İki çıkış 
     else:
         return "Pokémon bulunamadı veya API isteği başarısız oldu.",None
 
