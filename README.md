@@ -54,9 +54,7 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 
 ## Katkıda Bulunma
 
-Bu proje açık kaynaklıdır ve katkılarınızı bekliyoruz! Lütfen katkı yapmadan önce `CONTRIBUTING.md` dosyasını okuyun.
-
-
+Bu proje açık kaynaklıdır ve katkılarınızı bekliyoruz!
 
 ## Lisans
 
