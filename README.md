@@ -14,10 +14,6 @@ Bu Python uygulaması, [PokéAPI](https://pokeapi.co/) kullanarak Pokémon'lar h
 - **Gradio**: Kullanıcı arayüzü için Gradio kütüphanesi kullanılmıştır.
 - **PokéAPI**: Pokémon bilgilerini almak için PokéAPI kullanılır.
 
-## Ekran Görüntüleri
-
-![Pokémon Bilgisi Uygulaması](screenshot.png)
-
 ## Kurulum
 
 Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
@@ -60,9 +56,7 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar�
 
 Bu proje açık kaynaklıdır ve katkılarınızı bekliyoruz! Lütfen katkı yapmadan önce `CONTRIBUTING.md` dosyasını okuyun.
 
-### Hata Bildirme
 
-Herhangi bir hata ile karşılaşırsanız, [Issues](https://github.com/kullanici-adiniz/pokemon-bilgisi-uygulamasi/issues) bölümünü kullanarak bildirebilirsiniz.
 
 ## Lisans
 
@@ -72,3 +66,16 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 - **PokéAPI**: [https://pokeapi.co/](https://pokeapi.co/)
 - **Gradio**: [https://gradio.app/](https://gradio.app/)
+
+
+
+
+<h1 align="center"> 𓍢ִ໋☕️✧˚ ༘ ⋆ </h1>
+
+<h1> İletişim: </h1>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elfgk/)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27559679/elfgk)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-9C30FF?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/elfgk)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/elfgkk)
+
