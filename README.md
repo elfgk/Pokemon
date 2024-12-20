@@ -1,6 +1,6 @@
 # Pokémon Bilgisi Uygulaması
 
-Bu Python uygulaması, [PokéAPI](https://pokeapi.co/) kullanarak Pokémon'lar hakkında bilgi edinmenize ve her Pokémon'un resmiyle birlikte detaylı bilgilerini görmenize olanak sağlar. Kullanıcı, bir Pokémon seçtikten sonra o Pokémon'un adı, türleri, istatistikleri ve resmini görüntüleyebilir.
+Bu Python uygulaması, [PokéAPI](https://pokeapi.co/) kullanarak Pokémon'lar hakkında bilgi edinmenize ve her Pokémon'un resmiyle birlikte detaylı bilgilerini görmenize olanak sağlar. Kullanıcı, bir Pokémon seçtikten sonra o Pokémon'un adı, türleri, istatistikleri ve resmini görüntüleyebilir.-->https://huggingface.co/spaces/elfgk/Pokemon
 
 ## Özellikler
 
